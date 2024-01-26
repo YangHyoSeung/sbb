@@ -9,6 +9,7 @@
 /.idea
 artifacts.xml
 license.txt
+
 lombok.jar
 open-source-licenses.txt
 SpringToolSuite4.exe
